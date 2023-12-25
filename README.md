@@ -11,7 +11,7 @@
 - 🎯 I’m looking to collaborate on documentation and technical communication projects.
   
 - 📫 How to reach me: [Email](mailto:ronnyshani@gmail.com), [LinkedIn](https://www.linkedin.com/in/ronny-shani/).
-- 🎱 Fun fact: My copy [is way better](https://tech-day.project-a.com) than ChatGPT’s
+- 🎱 Fun fact: My copy [is way better](https://tech-day.project-a.com) than ChatGPT’s.
 
 ## Tech stack
 
