@@ -38,3 +38,6 @@
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat)
 ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat)
 ![Help Scout Badge](https://img.shields.io/badge/Help%20Scout-1292EE?logo=helpscout&logoColor=fff&style=flat)
+
+---
+Badges via [Simple Badges](https://badges.pages.dev)https://badges.pages.dev)
