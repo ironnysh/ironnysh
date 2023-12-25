@@ -31,8 +31,10 @@
 ![Webflow Badge](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=fff&style=flat)
 ![Contentful Badge](https://img.shields.io/badge/Contentful-2478CC?logo=contentful&logoColor=fff&style=flat)
 ![Shopify Badge](https://img.shields.io/badge/Shopify-7AB55C?logo=shopify&logoColor=fff&style=flat)
+
 ![Google Analytics Badge](https://img.shields.io/badge/Google%20Analytics-E37400?logo=googleanalytics&logoColor=fff&style=flat)
 ![Google Search Console Badge](https://img.shields.io/badge/Google%20Search%20Console-458CF5?logo=googlesearchconsole&logoColor=fff&style=flat)
 ![Cloudways Badge](https://img.shields.io/badge/Cloudways-2C39BD?logo=cloudways&logoColor=fff&style=flat)
 ![Google Colab Badge](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff&style=flat)
-
+![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=flat)
+![Help Scout Badge](https://img.shields.io/badge/Help%20Scout-1292EE?logo=helpscout&logoColor=fff&style=flat)
