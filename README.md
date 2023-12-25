@@ -40,4 +40,4 @@
 ![Help Scout Badge](https://img.shields.io/badge/Help%20Scout-1292EE?logo=helpscout&logoColor=fff&style=flat)
 
 ---
-Badges via [Simple Badges](https://badges.pages.dev)https://badges.pages.dev)
+Badges via [Simple Badges](https://badges.pages.dev)
