@@ -1,22 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-### What keeps ne busy these days
-<!--
-**ironnysh/ironnysh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+Welcome to my corner of GitHub. 
 
-- 🧹 I’m constantly updating my CV and ✨portfolio✨.
+## What keeps me busy these days
+
+- 🧹 I’m constantly updating my ✨portfolio✨.
 - ✍️ I’m working on an exciting tutorial for the [WordPress Developer Blog](https://developer.wordpress.org/news).
 - 🧠 I’m brushing up on [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/), an incredible course by [Tom Johnson](https://idratherbewriting.com/aboutme/).
 - 👩‍💻 I’m designing and developing a website for a NYC-based art and architecture tour guide.
 - ♥️ I’m contributing to [LearnWP](https://learn.wordpress.org) and enjoying every minute.
 - 🛠️ I’m tinkering with [Eleventy V3](https://www.11ty.dev/blog/canary-eleventy-v3/) and custom WordPress blocks.
 - 🎯 I’m looking to collaborate on documentation and technical communication projects.
-  
-- 📫 How to reach me: [Email](mailto:ronnyshani@gmail.com), [LinkedIn](https://www.linkedin.com/in/ronny-shani/).
-- 🎱 Fun fact: My copy [is way better](https://tech-day.project-a.com) than ChatGPT’s.
 
-## Tech stack
+> [!NOTE]
+> 🎱 Fun fact: My copy [is way better](https://tech-day.project-a.com) than ChatGPT’s.
+
+  ---
+
+> [!TIP]
+> 📫 **How to reach me**: [Email](mailto:ronnyshani@gmail.com), [LinkedIn](https://www.linkedin.com/in/ronny-shani/).
+
+  ---
+
+### Tech stack
 
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
@@ -28,7 +34,7 @@
 ![Nunjucks Badge](https://img.shields.io/badge/Nunjucks-1C4913?logo=nunjucks&logoColor=fff&style=flat)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=flat)
 
-## Misc
+### Misc
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=flat)
 ![Adobe Badge](https://img.shields.io/badge/Adobe-F00?logo=adobe&logoColor=fff&style=flat)
 ![Webflow Badge](https://img.shields.io/badge/Webflow-146EF5?logo=webflow&logoColor=fff&style=flat)
@@ -43,4 +49,4 @@
 ![Help Scout Badge](https://img.shields.io/badge/Help%20Scout-1292EE?logo=helpscout&logoColor=fff&style=flat)
 
 ---
-Badges via [Simple Badges](https://badges.pages.dev)
+<sub>Badges via [Simple Badges](https://badges.pages.dev)</sub>
