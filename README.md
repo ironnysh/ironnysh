@@ -6,7 +6,7 @@ Welcome to my corner of GitHub.
 
 - 🧹 I’m constantly updating my ✨portfolio✨.
 - ✍️ I’m working on an exciting tutorial for the [WordPress Developer Blog](https://developer.wordpress.org/news).
-- 🧠 I’m brushing up on API documentation with [Tom Johnson's](https://idratherbewriting.com/aboutme) [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/) incredible course.
+- 🧠 I’m brushing up on API documentation with [Tom Johnson's](https://idratherbewriting.com/aboutme)  incredible course: [Documenting APIs: A guide for technical writers and engineers](https://idratherbewriting.com/learnapidoc/).
 - 🏆 I completed Scriptorium's [LearningDITA](https://learningdita.com) courses.
 - 👩‍💻 I’m designing and developing a website for a NYC-based art and architecture tour guide.
 - ♥️ I’m contributing to [LearnWP](https://learn.wordpress.org) and enjoying every minute.
